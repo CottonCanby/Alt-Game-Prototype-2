@@ -1,10 +1,13 @@
 {
   "resources": [
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":16,},
+    {"id":{"name":"scr_collide_with_walls","path":"scripts/scr_collide_with_walls/scr_collide_with_walls.yy",},"order":2,},
     {"id":{"name":"scr_input","path":"scripts/scr_input/scr_input.yy",},"order":1,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":17,},
     {"id":{"name":"obj_walls","path":"objects/obj_walls/obj_walls.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
+    {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},"order":3,},
     {"id":{"name":"scr_playerMovement","path":"scripts/scr_playerMovement/scr_playerMovement.yy",},"order":0,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
