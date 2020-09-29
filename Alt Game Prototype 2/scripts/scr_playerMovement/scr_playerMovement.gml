@@ -1,12 +1,25 @@
-
 function scr_playerMovement() {
-	//Set x direction
-	x_dir = right - left; //R = 1 - 0; L = 0 -1; X = 0 - 0
-	y_dir = down - up;
 
-	//Apply Movement
-	spd = 3;
-	x += x_dir * spd;
-	y += y_dir * spd;
+var hspd = argument[0];
+var vspd = argument[1];
 
+//Horiziontal movement
+if (place_meeting(x+hspd, y, obj_table)) {
+	while (!place_meeting(x+sign(hspd), y, obj_table)) {
+		x += sign(hspd);
+	}
+	hspd = 0;
+}
+
+x += hspd;
+
+//Vertical movement
+if (place_meeting(x, y+vspd, obj_table)) {
+	while (!place_meeting(x, y+sign(vspd), obj_table)) {
+		y += sign(vspd);
+	}
+	vspd = 0;
+}
+
+y += vspd;
 }

@@ -5,6 +5,8 @@ function scr_input() {
 	if keyboard_check(vk_right) right = true;
 	else right = false;*/
 	
+
+	
 	left = keyboard_check(vk_left);
 	right = keyboard_check(vk_right);
 	up = keyboard_check(vk_up);

@@ -1,15 +1,14 @@
-/// @description Insert description here
-// You can write your code in this editor
+hspd = (keyboard_check(vk_right) - keyboard_check(vk_left)) * spd;
+vspd = (keyboard_check(vk_down) - keyboard_check(vk_up)) * spd;
 
 //Register inputs
 scr_input();
 
 //Move the player
-scr_playerMovement();
+scr_playerMovement(hspd, vspd);
 
-//Check for win/lose
-if x < 0 || x > room_width || y < 0 || y> room_height {
-	show_message("You have failed")
-	lose = true
-	game_restart();
-}
+//Add collision
+scr_collide_with_walls();
+
+//Push objects around
+scr_push();
