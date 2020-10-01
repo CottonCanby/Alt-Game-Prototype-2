@@ -1,6 +1,6 @@
 
 timer -= 1;
-target_offset = random_range(-100, 100);
+target_offset = random_range(-100, 50);
 show_debug_message(timer);
 
 //Fades out over time
