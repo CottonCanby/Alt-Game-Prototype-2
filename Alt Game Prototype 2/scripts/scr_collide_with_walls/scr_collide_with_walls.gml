@@ -6,14 +6,14 @@ function scr_collide_with_walls() {
 	lose = false;
 	
 
-	if place_meeting(x + spd * x_dir,y,obj_walls) { //If colliding with a wall
-		while !place_meeting(x+x_dir,y,obj_walls) x+=x_dir
+	if place_meeting(x + spd * x_dir,y,obj_wall_top) { //If colliding with a wall
+		while !place_meeting(x+x_dir,y,obj_wall_top) x+=x_dir
 		x_lost = false;
 	}
 	x += spd * x_dir;
 
-	if place_meeting(x,y + spd * y_dir,obj_walls) { //If colliding with a wall
-		while !place_meeting(x,y+y_dir,obj_walls) y+=y_dir
+	if place_meeting(x,y + spd * y_dir,obj_wall_top) { //If colliding with a wall
+		while !place_meeting(x,y+y_dir,obj_wall_top) y+=y_dir
 		y_lost = false;
 	}
 	y += spd * y_dir;

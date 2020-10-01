@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_table",
-    "path": "sprites/spr_table/spr_table.yy",
+    "name": "Sprite2",
+    "path": "sprites/Sprite2/Sprite2.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_table",
+  "name": "obj_walls",
   "tags": [],
   "resourceType": "GMObject",
 }
