@@ -1,12 +1,12 @@
 {
   "resources": [
     {"id":{"name":"spr_wall_horizontal","path":"sprites/spr_wall_horizontal/spr_wall_horizontal.yy",},"order":3,},
-    {"id":{"name":"test","path":"objects/test/test.yy",},"order":7,},
     {"id":{"name":"obj_wall_left_target","path":"objects/obj_wall_left_target/obj_wall_left_target.yy",},"order":1,},
+    {"id":{"name":"obj_lamp","path":"objects/obj_lamp/obj_lamp.yy",},"order":7,},
     {"id":{"name":"obj_wall_bottom","path":"objects/obj_wall_bottom/obj_wall_bottom.yy",},"order":0,},
     {"id":{"name":"scr_collide_with_walls","path":"scripts/scr_collide_with_walls/scr_collide_with_walls.yy",},"order":2,},
     {"id":{"name":"obj_wall_left","path":"objects/obj_wall_left/obj_wall_left.yy",},"order":0,},
-    {"id":{"name":"scr_push","path":"scripts/scr_push/scr_push.yy",},"order":3,},
+    {"id":{"name":"scr_table_push","path":"scripts/scr_table_push/scr_table_push.yy",},"order":3,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":15,},
     {"id":{"name":"spr_wall_horizontal_target","path":"sprites/spr_wall_horizontal_target/spr_wall_horizontal_target.yy",},"order":1,},
     {"id":{"name":"scr_input","path":"scripts/scr_input/scr_input.yy",},"order":1,},
@@ -25,6 +25,8 @@
     {"id":{"name":"obj_wall_right","path":"objects/obj_wall_right/obj_wall_right.yy",},"order":0,},
     {"id":{"name":"obj_wall_right_target","path":"objects/obj_wall_right_target/obj_wall_right_target.yy",},"order":1,},
     {"id":{"name":"scr_playerMovement","path":"scripts/scr_playerMovement/scr_playerMovement.yy",},"order":0,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":16,},
+    {"id":{"name":"scr_lamp_push","path":"scripts/scr_lamp_push/scr_lamp_push.yy",},"order":4,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [

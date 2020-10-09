@@ -11,4 +11,5 @@ scr_playerMovement(hspd, vspd);
 scr_collide_with_walls();
 
 //Push objects around
-scr_push();
+scr_table_push();
+scr_lamp_push();

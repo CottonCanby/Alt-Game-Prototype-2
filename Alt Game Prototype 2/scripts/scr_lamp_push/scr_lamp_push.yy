@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "scr_push",
+  "name": "scr_lamp_push",
   "tags": [],
   "resourceType": "GMScript",
 }
