@@ -64,6 +64,7 @@
     {"id":{"name":"obj_wall_right_target","path":"objects/obj_wall_right_target/obj_wall_right_target.yy",},"order":1,},
     {"id":{"name":"obj_wall_space_right","path":"objects/obj_wall_space_right/obj_wall_space_right.yy",},"order":2,},
     {"id":{"name":"scr_playerMovement","path":"scripts/scr_playerMovement/scr_playerMovement.yy",},"order":0,},
+    {"id":{"name":"spr_temp_floor","path":"sprites/spr_temp_floor/spr_temp_floor.yy",},"order":17,},
     {"id":{"name":"obj_wall_space_top","path":"objects/obj_wall_space_top/obj_wall_space_top.yy",},"order":2,},
     {"id":{"name":"spr_fightgraphic_r2","path":"sprites/spr_fightgraphic_r2/spr_fightgraphic_r2.yy",},"order":16,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":16,},

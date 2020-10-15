@@ -24,9 +24,7 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"","path":"",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"","path":"",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"","path":"",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+    {"compositeImage":{"FrameId":{"name":"4639cb64-f356-43b9-a82e-6aa6e31cb81d","path":"sprites/spr_fightgraphic_r1/spr_fightgraphic_r1.yy",},"LayerId":{"name":"d00c9f21-cfc5-49d7-9c34-46de8a0bb9cc","path":"sprites/spr_fightgraphic_r1/spr_fightgraphic_r1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"4639cb64-f356-43b9-a82e-6aa6e31cb81d","path":"sprites/spr_fightgraphic_r1/spr_fightgraphic_r1.yy",},"LayerId":{"name":"d00c9f21-cfc5-49d7-9c34-46de8a0bb9cc","path":"sprites/spr_fightgraphic_r1/spr_fightgraphic_r1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_fightgraphic_r1","path":"sprites/spr_fightgraphic_r1/spr_fightgraphic_r1.yy",},"resourceVersion":"1.0","name":"4639cb64-f356-43b9-a82e-6aa6e31cb81d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
