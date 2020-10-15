@@ -1,4 +1,4 @@
-function scr_lamp_win() {
+/*function scr_lamp_win() {
 	
 	var lamp_win = argument[0];
 

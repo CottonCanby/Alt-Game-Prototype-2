@@ -1,4 +1,4 @@
-function scr_chair_win() {
+/*function scr_chair_win() {
 
 	var chair_win = argument[0];
 
