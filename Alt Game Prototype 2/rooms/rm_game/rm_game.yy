@@ -32,6 +32,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_leavetext_temp","path":"objects/obj_leavetext_temp/obj_leavetext_temp.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":128.0,"resourceVersion":"1.0","name":"inst_16A3CE59","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_l1","path":"objects/obj_fightgraphic_l1/obj_fightgraphic_l1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.343483657,"scaleY":0.343483657,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-320.0,"y":-256.0,"resourceVersion":"1.0","name":"inst_3A45AA5A","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_r1","path":"objects/obj_fightgraphic_r1/obj_fightgraphic_r1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5018503,"scaleY":0.5018502,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.0,"y":1568.0,"resourceVersion":"1.0","name":"inst_4E544A64","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Text","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":320.0,"resourceVersion":"1.0","name":"inst_62811978","tags":[],"resourceType":"GMRInstance",},
@@ -65,6 +66,7 @@
     {"name":"inst_7BA5CDB0","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_1E09D50A","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_3A45AA5A","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_4E544A64","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
