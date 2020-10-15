@@ -11,7 +11,7 @@ with (obj_camera)
 		shake_length = argument1;
 		
 		obj_player.shaking = true;
-		audio_play_sound(snd_fitness, 1, false);
+		//audio_play_sound(snd_fitness, 1, false); //disabling this for now
 	}
 	
 }

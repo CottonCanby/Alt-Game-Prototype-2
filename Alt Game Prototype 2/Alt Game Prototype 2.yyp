@@ -11,6 +11,7 @@
     {"id":{"name":"obj_wall_left","path":"objects/obj_wall_left/obj_wall_left.yy",},"order":0,},
     {"id":{"name":"scr_chair_push","path":"scripts/scr_chair_push/scr_chair_push.yy",},"order":5,},
     {"id":{"name":"scr_table_push","path":"scripts/scr_table_push/scr_table_push.yy",},"order":3,},
+    {"id":{"name":"obj_level_timer","path":"objects/obj_level_timer/obj_level_timer.yy",},"order":18,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":15,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":12,},
     {"id":{"name":"spr_wall_horizontal_target","path":"sprites/spr_wall_horizontal_target/spr_wall_horizontal_target.yy",},"order":1,},
