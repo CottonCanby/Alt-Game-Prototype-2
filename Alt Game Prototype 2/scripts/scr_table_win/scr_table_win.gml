@@ -1,4 +1,4 @@
-/*function scr_table_win() {
+function scr_table_win() {
 
 	var table_win = argument[0];
 

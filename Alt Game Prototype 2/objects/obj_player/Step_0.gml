@@ -1,8 +1,8 @@
 hspd = (keyboard_check(vk_right) - keyboard_check(vk_left)) * spd;
 vspd = (keyboard_check(vk_down) - keyboard_check(vk_up)) * spd;
-/*lamp_win = false;
+lamp_win = false;
 chair_win = false;
-table_win = false;*/
+table_win = false;
 
 //Register inputs
 scr_input();
@@ -19,7 +19,7 @@ scr_lamp_push();
 scr_chair_push();
 
 //Win condition for each level
-/*scr_lamp_win(lamp_win);
+scr_lamp_win(lamp_win);
 scr_chair_win(chair_win);
 scr_table_win(table_win);
 
