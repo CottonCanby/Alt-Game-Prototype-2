@@ -19,7 +19,7 @@ scr_lamp_push();
 scr_chair_push();
 
 //Win condition for each level
-scr_lamp_win(lamp_win);
+/*scr_lamp_win(lamp_win);
 scr_chair_win(chair_win);
 scr_table_win(table_win);
 
