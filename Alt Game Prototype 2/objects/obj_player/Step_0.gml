@@ -24,5 +24,5 @@ scr_chair_win(chair_win);
 scr_table_win(table_win);
 
 if lamp_win = true || chair_win = true || table_win = true {
-	show_message("You won")
+	show_message("whoop")
 }

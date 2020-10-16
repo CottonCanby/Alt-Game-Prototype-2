@@ -1,8 +1,11 @@
 function scr_lamp_win() {
 	
-	var lamp_win = argument[0];
-
-	if place_meeting(x,y,obj_lamp_goal) {
-		var lamp_win = true;
+	lamp_goal_x = obj_lamp_goal.x;
+	lamp_goal_y = obj_lamp_goal.y;
+	
+	if place_meeting(lamp_goal_x,lamp_goal_y,obj_lamp) {
+		var lamp_win = true
 	}
+	
+	var lamp_win = argument[0];
 }
