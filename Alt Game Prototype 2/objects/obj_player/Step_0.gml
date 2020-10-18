@@ -19,10 +19,27 @@ scr_lamp_push();
 scr_chair_push();
 
 //Win condition for each level
-scr_lamp_win(lamp_win);
-scr_chair_win(chair_win);
-scr_table_win(table_win);
+chair_goal_x = obj_chair_goal.x;
+chair_goal_y = obj_chair_goal.y;
+	
+if place_meeting(chair_goal_x,chair_goal_y,obj_chair) {
+	var chair_win = true
+}
 
-if lamp_win = true || chair_win = true || table_win = true {
+lamp_goal_x = obj_lamp_goal.x;
+lamp_goal_y = obj_lamp_goal.y;
+	
+if place_meeting(lamp_goal_x,lamp_goal_y,obj_lamp) {
+	var lamp_win = true
+}
+
+table_goal_x = obj_table_goal.x;
+table_goal_y = obj_table_goal.y;
+	
+if place_meeting(table_goal_x,table_goal_y,obj_table) {
+	var table_win = true
+}
+
+if lamp_win = true && chair_win = true && table_win = true {
 	show_message("whoop")
 }
