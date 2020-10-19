@@ -54,6 +54,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"inst_69B85AE2","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_1E37466B","path":"rooms/rm_game/rm_game.yy",},
 =======
@@ -77,6 +78,8 @@
 >>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
 =======
 >>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
+=======
+>>>>>>> parent of ef6c279... Got object goals placed
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
