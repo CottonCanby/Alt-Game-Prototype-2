@@ -53,9 +53,12 @@
     {"name":"inst_2A8ADAB0","path":"rooms/rm_game/rm_game.yy",},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"inst_69B85AE2","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_1E37466B","path":"rooms/rm_game/rm_game.yy",},
 =======
+=======
+>>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
 =======
 >>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
     {"name":"inst_C5488CC","path":"rooms/rm_game/rm_game.yy",},
@@ -68,6 +71,9 @@
     {"name":"inst_7E8E0E93","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_39B00379","path":"rooms/rm_game/rm_game.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
+=======
 >>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
 =======
 >>>>>>> parent of ae4dcb0... Merge pull request #1 from u1199610/newDavis
