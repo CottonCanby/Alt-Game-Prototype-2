@@ -1,7 +1,5 @@
 //Moves to target position
-moveX = spd;
-
-x = median(x-moveX, obj_wall_right_target.x, x+moveX);
+x = lerp(x, obj_wall_right_target.x, 0.05);
 
 //Color Changing
 if (obj_wall_right_target.timer < 50){
