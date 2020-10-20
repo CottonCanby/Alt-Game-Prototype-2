@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite25",
-    "path": "sprites/Sprite25/Sprite25.yy",
+    "name": "Sprite24",
+    "path": "sprites/Sprite24/Sprite24.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_table",
+  "name": "obj_lamp_goal",
   "tags": [],
   "resourceType": "GMObject",
 }

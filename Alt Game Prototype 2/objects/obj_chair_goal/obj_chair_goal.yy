@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite25",
-    "path": "sprites/Sprite25/Sprite25.yy",
+    "name": "Sprite22",
+    "path": "sprites/Sprite22/Sprite22.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_table",
+  "name": "obj_chair_goal",
   "tags": [],
   "resourceType": "GMObject",
 }
