@@ -5,10 +5,10 @@ chair_win = false;
 table_win = false;
 
 //Register inputs
-scr_input();
+if (control_enabled) { scr_input(); }
 
 //Move the player
-scr_playerMovement(hspd, vspd);
+if (control_enabled) { scr_playerMovement(hspd, vspd); }
 
 //Add collision
 scr_collide_with_walls();

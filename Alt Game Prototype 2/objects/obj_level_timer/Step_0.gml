@@ -6,7 +6,7 @@ timer -= 1;
 if timer <= 0
 {
 	timer = 0;
-	show_message("You have won");
+	//show_message("You have won");
 }
 
 
