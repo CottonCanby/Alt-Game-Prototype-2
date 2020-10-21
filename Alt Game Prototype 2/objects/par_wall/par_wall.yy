@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_wall_space_top",
-    "path": "sprites/spr_wall_space_top/spr_wall_space_top.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -20,17 +17,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_wall_space_top","path":"objects/obj_wall_space_top/obj_wall_space_top.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "top_wall",
-    "path": "folders/Objects/top_wall.yy",
+    "name": "bottom_wall",
+    "path": "folders/Objects/bottom_wall.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_wall_space_top",
+  "name": "par_wall",
   "tags": [],
   "resourceType": "GMObject",
 }

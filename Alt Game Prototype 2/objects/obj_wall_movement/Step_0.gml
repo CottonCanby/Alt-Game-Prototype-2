@@ -1,6 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_speed = 30;
-timer = room_speed * 5; //five seconds
-
-image_alpha = 1;
+scr_execute_wall(current_scene[0], current_scene_array);
