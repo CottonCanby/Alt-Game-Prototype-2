@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"snd_marriage_story2","path":"sounds/snd_marriage_story2/snd_marriage_story2.yy",},"order":3,},
     {"id":{"name":"spr_wall_horizontal","path":"sprites/spr_wall_horizontal/spr_wall_horizontal.yy",},"order":3,},
     {"id":{"name":"obj_cutscene","path":"objects/obj_cutscene/obj_cutscene.yy",},"order":9,},
     {"id":{"name":"obj_wall_left_target","path":"objects/obj_wall_left_target/obj_wall_left_target.yy",},"order":1,},
@@ -44,6 +45,7 @@
     {"id":{"name":"obj_trigger","path":"objects/obj_trigger/obj_trigger.yy",},"order":10,},
     {"id":{"name":"obj_wall_space_left","path":"objects/obj_wall_space_left/obj_wall_space_left.yy",},"order":2,},
     {"id":{"name":"snd_fitness","path":"sounds/snd_fitness/snd_fitness.yy",},"order":0,},
+    {"id":{"name":"snd_marriage_story","path":"sounds/snd_marriage_story/snd_marriage_story.yy",},"order":2,},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":21,},
     {"id":{"name":"spr_table","path":"sprites/spr_table/spr_table.yy",},"order":6,},
     {"id":{"name":"spr_wall_space_right","path":"sprites/spr_wall_space_right/spr_wall_space_right.yy",},"order":10,},
@@ -79,7 +81,6 @@
     {"id":{"name":"spr_fightgraphic_l2","path":"sprites/spr_fightgraphic_l2/spr_fightgraphic_l2.yy",},"order":14,},
     {"id":{"name":"obj_leavetext_temp","path":"objects/obj_leavetext_temp/obj_leavetext_temp.yy",},"order":2,},
     {"id":{"name":"obj_wall_right","path":"objects/obj_wall_right/obj_wall_right.yy",},"order":0,},
-    {"id":{"name":"scr_object_delete","path":"scripts/scr_object_delete/scr_object_delete.yy",},"order":22,},
     {"id":{"name":"obj_wall_right_target","path":"objects/obj_wall_right_target/obj_wall_right_target.yy",},"order":1,},
     {"id":{"name":"obj_wall_space_right","path":"objects/obj_wall_space_right/obj_wall_space_right.yy",},"order":2,},
     {"id":{"name":"scr_move_wall_right","path":"scripts/scr_move_wall_right/scr_move_wall_right.yy",},"order":3,},
