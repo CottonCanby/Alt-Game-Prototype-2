@@ -11,7 +11,7 @@ if (control_enabled) { scr_input(); }
 if (control_enabled) { scr_playerMovement(hspd, vspd); }
 
 //Add collision
-scr_collide_with_walls();
+if (control_enabled) { scr_collide_with_walls(); }
 
 //Push objects around
 scr_table_push();
