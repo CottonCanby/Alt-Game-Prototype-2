@@ -3,6 +3,13 @@
 alpha = clamp(alpha + (fade * fadeSpeed), 0, 1);
 
 
+if (alpha == 1 && room = rm_intro)
+{
+	room_goto(rm_game);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
+
 if (alpha == 1 && room = rm_game)
 {
 	room_goto(rm_day_complete);

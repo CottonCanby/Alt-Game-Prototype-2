@@ -5,10 +5,10 @@ control_enabled = true;
 scene_info = -1;
 scene = 0;
 
-wall_movement_speed = 3;
+wall_movement_speed = 7;
 seconds = 1;
 telegraphed_time = 1;
-wall_wait_spd = 1;
+wall_wait_spd = 0;
 
 timer = 0;
 wall_timer = 0;

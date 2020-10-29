@@ -5,7 +5,7 @@ room_speed = 30;
 //ideally would like room_speed to be 60
 one_minute = 60*room_speed;
 
-timer = 1*one_minute;
+timer = .75*one_minute;
 
 
 
