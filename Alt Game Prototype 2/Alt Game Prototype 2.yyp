@@ -12,6 +12,7 @@
     {"id":{"name":"par_wall","path":"objects/par_wall/par_wall.yy",},"order":3,},
     {"id":{"name":"obj_chair_goal","path":"objects/obj_chair_goal/obj_chair_goal.yy",},"order":19,},
     {"id":{"name":"obj_wall_bottom","path":"objects/obj_wall_bottom/obj_wall_bottom.yy",},"order":0,},
+    {"id":{"name":"obj_level_stress_status","path":"objects/obj_level_stress_status/obj_level_stress_status.yy",},"order":27,},
     {"id":{"name":"scr_collide_with_walls","path":"scripts/scr_collide_with_walls/scr_collide_with_walls.yy",},"order":2,},
     {"id":{"name":"obj_room_center","path":"objects/obj_room_center/obj_room_center.yy",},"order":13,},
     {"id":{"name":"spr_day_complete_3","path":"sprites/spr_day_complete_3/spr_day_complete_3.yy",},"order":20,},

@@ -15,6 +15,9 @@ t_scene_info = [
 	[scr_cutscene_move_character, obj_wall_space_right, 1219, 257, false, 3],
 	[scr_cutscene_wait, 1],
 	[scr_cutscene_move_character, obj_player, 420, 360, false, 2],
+	[scr_cutscene_change_variable, obj_level_stress_status, "can_count", false],
+	[scr_cutscene_change_variable, obj_level_stress_status, "status_text", "stabilized :)"],
+	[scr_cutscene_change_variable, obj_level_stress_status, "color", c_aqua],
 	[scr_cutscene_fade],
 
 ]
