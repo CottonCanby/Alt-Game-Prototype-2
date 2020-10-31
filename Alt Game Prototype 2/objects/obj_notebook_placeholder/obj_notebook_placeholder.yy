@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Room Text",
+    "path": "folders/Objects/Room Utility/Room Text.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_notebook_placeholder",

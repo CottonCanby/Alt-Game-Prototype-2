@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "top_wall",
-    "path": "folders/Objects/top_wall.yy",
+    "path": "folders/Objects/Walls/top_wall.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall_space_top",

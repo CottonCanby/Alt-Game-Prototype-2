@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Goals",
+    "path": "folders/Objects/Furniture/Goals.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_lamp_goal",

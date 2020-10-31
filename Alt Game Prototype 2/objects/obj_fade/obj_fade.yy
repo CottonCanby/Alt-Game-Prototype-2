@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "group1",
-    "path": "folders/Objects/group1.yy",
+    "name": "Room Utility",
+    "path": "folders/Objects/Room Utility.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_fade",

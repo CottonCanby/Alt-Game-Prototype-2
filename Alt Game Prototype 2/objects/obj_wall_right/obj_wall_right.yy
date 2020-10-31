@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "right_wall",
-    "path": "folders/Objects/right_wall.yy",
+    "path": "folders/Objects/Walls/right_wall.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall_right",

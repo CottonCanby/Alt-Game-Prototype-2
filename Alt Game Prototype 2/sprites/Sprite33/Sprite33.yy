@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d76b3426-0751-4a65-af99-cb34559a6dcf","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Alt Game Prototype 2",
-    "path": "Alt Game Prototype 2.yyp",
+    "name": "Backgrounds",
+    "path": "folders/Sprites/Backgrounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "Sprite33",

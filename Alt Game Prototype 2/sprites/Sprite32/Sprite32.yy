@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e562769e-7399-4ebb-866c-330404be30ea","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Alt Game Prototype 2",
-    "path": "Alt Game Prototype 2.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "Sprite32",

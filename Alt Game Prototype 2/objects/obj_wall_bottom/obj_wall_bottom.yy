@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "bottom_wall",
-    "path": "folders/Objects/bottom_wall.yy",
+    "path": "folders/Objects/Walls/bottom_wall.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall_bottom",
