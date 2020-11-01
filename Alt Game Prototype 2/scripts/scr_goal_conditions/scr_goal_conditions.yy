@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Main Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "scr_lamp_push",
+  "name": "scr_goal_conditions",
   "tags": [],
   "resourceType": "GMScript",
 }

@@ -4,10 +4,7 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "par_collision",
-    "path": "objects/par_collision/par_collision.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Walls",
-    "path": "folders/Objects/Walls.yy",
+    "name": "Furniture",
+    "path": "folders/Objects/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "par_wall",
+  "name": "par_collision",
   "tags": [],
   "resourceType": "GMObject",
 }

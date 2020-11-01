@@ -1,16 +1,24 @@
 function scr_input() {
-	left = keyboard_check(ord("A"));
-	right = keyboard_check(ord("D"));
-	up = keyboard_check(ord("W"));
-	down = keyboard_check(ord("S"));
 	
+//--------UPDATE INPUT
+wasdleft	= keyboard_check(ord("A"));
+wasdright	= keyboard_check(ord("D"));
+wasdup		= keyboard_check(ord("W"));
+wasddown	= keyboard_check(ord("S"));
+
+left	= keyboard_check(vk_left);
+right	= keyboard_check(vk_right);
+up		= keyboard_check(vk_up);
+down	= keyboard_check(vk_down);	
 	
-	//Utility
-	if keyboard_check_pressed(vk_escape) {
-		game_end();
-	}
-	if keyboard_check_pressed(ord("R")) {
-		show_message("Restart")
-		game_end();
-	}
+//--------UTILITY
+if keyboard_check_pressed(vk_escape) {
+	game_end();
+}
+if keyboard_check_pressed(ord("R")) {
+	show_message("Restart")
+	game_end();
+}
+
+
 }
