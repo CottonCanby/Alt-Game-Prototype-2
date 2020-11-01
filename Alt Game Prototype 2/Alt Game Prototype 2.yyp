@@ -130,13 +130,13 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},
     {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
     {"name":"rm_day_complete","path":"rooms/rm_day_complete/rm_day_complete.yy",},
     {"name":"rm_day_end","path":"rooms/rm_day_end/rm_day_end.yy",},
     {"name":"rm_notebook","path":"rooms/rm_notebook/rm_notebook.yy",},
     {"name":"rm_thinking","path":"rooms/rm_thinking/rm_thinking.yy",},
     {"name":"rm_end_of_alpha","path":"rooms/rm_end_of_alpha/rm_end_of_alpha.yy",},
-    {"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":5,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
