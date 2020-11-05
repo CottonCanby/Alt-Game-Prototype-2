@@ -116,6 +116,7 @@
     {"id":{"name":"spr_fightgraphic_r2","path":"sprites/spr_fightgraphic_r2/spr_fightgraphic_r2.yy",},"order":9,},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},"order":16,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":12,},
+    {"id":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},"order":6,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":1,},
   ],
   "Options": [
