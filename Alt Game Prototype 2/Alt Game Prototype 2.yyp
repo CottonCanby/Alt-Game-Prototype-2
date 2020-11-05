@@ -101,7 +101,9 @@
     {"id":{"name":"spr_wall_space_left","path":"sprites/spr_wall_space_left/spr_wall_space_left.yy",},"order":4,},
     {"id":{"name":"spr_day_complete_2","path":"sprites/spr_day_complete_2/spr_day_complete_2.yy",},"order":2,},
     {"id":{"name":"scr_create_cutscene","path":"scripts/scr_create_cutscene/scr_create_cutscene.yy",},"order":0,},
+    {"id":{"name":"rm_teenager","path":"rooms/rm_teenager/rm_teenager.yy",},"order":8,},
     {"id":{"name":"spr_fightgraphic_l2","path":"sprites/spr_fightgraphic_l2/spr_fightgraphic_l2.yy",},"order":7,},
+    {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},"order":14,},
     {"id":{"name":"obj_wall_right","path":"objects/obj_wall_right/obj_wall_right.yy",},"order":0,},
     {"id":{"name":"obj_wall_right_target","path":"objects/obj_wall_right_target/obj_wall_right_target.yy",},"order":1,},
     {"id":{"name":"obj_wall_space_right","path":"objects/obj_wall_space_right/obj_wall_space_right.yy",},"order":2,},
@@ -137,6 +139,7 @@
     {"name":"rm_notebook","path":"rooms/rm_notebook/rm_notebook.yy",},
     {"name":"rm_thinking","path":"rooms/rm_thinking/rm_thinking.yy",},
     {"name":"rm_end_of_alpha","path":"rooms/rm_end_of_alpha/rm_end_of_alpha.yy",},
+    {"name":"rm_teenager","path":"rooms/rm_teenager/rm_teenager.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":5,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
