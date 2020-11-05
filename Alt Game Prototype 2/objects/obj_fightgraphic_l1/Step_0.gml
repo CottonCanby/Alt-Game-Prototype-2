@@ -4,16 +4,26 @@ motion_set(340,7)
 
 	//}
 //move_wrap(true, false, sprite_width);
-
-if speech_timer <= 0 {
-	speech_timer = 0;
+if (place_meeting(x, y, obj_wall_top)) {
+	var snd = audio_play_sound(snd_marriage_story, 0, true);
+	audio_sound_set_track_position(snd, 12);
+	scr_screen_shake(10, 9*60);
 }
-speech_timer -= 1;
 
-if speech_timer = 0 {
+if (place_meeting(x, y, obj_wall_right)) {
 	instance_destroy(self);
 	audio_stop_sound(snd_marriage_story);
 }
+
+//if speech_timer <= 0 {
+	//speech_timer = 0;
+//}
+//speech_timer -= 1;
+
+//if speech_timer = 0 {
+	//instance_destroy(self);
+	//audio_stop_sound(snd_marriage_story);
+//}
 //spawn_timer++;
 	//if (spawn_timer >= duration_between_spawns){
     // CREATE YOUR ENEMY HERE
