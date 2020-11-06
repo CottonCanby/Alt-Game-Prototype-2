@@ -4,4 +4,4 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_set_color(c_white);
 draw_set_font(fnt_minecraft);
-draw_text(view_xport[0]+view_wport[0]/2, view_yport[0]+view_hport[0]/2, "This is the end of the alpha \n ... \n Thanks for playing! \n ... \n ...onward and upward!");
+draw_text(view_xport[0]+view_wport[0]/2, view_yport[0]+view_hport[0]/2, "They wouldn’t let me go out with my friends. I should try doing what I used to do");

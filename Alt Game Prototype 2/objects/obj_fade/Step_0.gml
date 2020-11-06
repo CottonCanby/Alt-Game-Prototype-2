@@ -45,6 +45,12 @@ if (alpha == 1 && room = rm_thinking)
 	fade = -1;
 }
 
+if (alpha == 1 && room = rm_end_of_alpha)
+{
+	room_goto(rm_teenager);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
 
 
 if (alpha == 0) && (fade == -1)
