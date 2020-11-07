@@ -12,7 +12,7 @@ y += random_range(-shake_remain, shake_remain);
 shake_remain = max(0, shake_remain- ((1/shake_length)*shake_magnitude));
 
 if (shake_remain = 0) {
-	show_debug_message("shaking is false");
+	//show_debug_message("shaking is false");
 	obj_player.shaking = false;	
 	audio_stop_sound(snd_fitness);
 }

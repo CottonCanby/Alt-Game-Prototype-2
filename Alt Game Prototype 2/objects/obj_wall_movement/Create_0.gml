@@ -18,6 +18,10 @@ added_table = false;
 added_lamp = false;
 added_chair = false;
 
+pulse_timer = 0;
+pulse_duration = 30;
+wall_pulsing = false;
+
 
 //---------THE-IMPORTANT-BIT
 scene_info = [
