@@ -27,8 +27,11 @@ if (obj_player.chair_win & !added_chair){
 	added_chair = true;
 }
 
+if (keyboard_check(vk_lcontrol) && keyboard_check_pressed(ord("P"))){
+	pause_walls = true;	
+}
 
-if (!control_enabled){
+if (!control_enabled or pause_walls){
 	seconds = 1000;
 	telegraphed_time = 1000;
 	wall_wait_spd = 1000;

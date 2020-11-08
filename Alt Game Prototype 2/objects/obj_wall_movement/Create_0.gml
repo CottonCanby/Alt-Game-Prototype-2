@@ -22,6 +22,8 @@ pulse_timer = 0;
 pulse_duration = 30;
 wall_pulsing = false;
 
+pause_walls = false;
+
 
 //---------THE-IMPORTANT-BIT
 scene_info = [
