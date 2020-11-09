@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite2248",
-    "path": "sprites/Sprite2248/Sprite2248.yy",
+    "name": "Sprite2450",
+    "path": "sprites/Sprite2450/Sprite2450.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Furniture/Goals.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_chair_goal",
+  "name": "obj_lamp_goal_light",
   "tags": [],
   "resourceType": "GMObject",
 }

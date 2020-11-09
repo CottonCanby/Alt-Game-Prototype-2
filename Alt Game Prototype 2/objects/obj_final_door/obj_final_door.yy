@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite2248",
-    "path": "sprites/Sprite2248/Sprite2248.yy",
+    "name": "Sprite51",
+    "path": "sprites/Sprite51/Sprite51.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Goals",
-    "path": "folders/Objects/Furniture/Goals.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_chair_goal",
+  "name": "obj_final_door",
   "tags": [],
   "resourceType": "GMObject",
 }
