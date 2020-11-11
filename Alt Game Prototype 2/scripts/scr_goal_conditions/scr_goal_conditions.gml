@@ -7,6 +7,13 @@ lamp_goal_x = obj_lamp_goal.x;
 lamp_goal_y = obj_lamp_goal.y;
 table_goal_x = obj_table_goal.x;
 table_goal_y = obj_table_goal.y;
+
+chair_goal_light_x = obj_chair_goal_light.x;
+chair_goal_light_y = obj_chair_goal_light.y;
+lamp_goal_light_x = obj_lamp_goal_light.x;
+lamp_goal_light_y = obj_lamp_goal_light.y;
+table_goal_light_x = obj_table_goal_light.x;
+table_goal_light_y = obj_table_goal_light.y;
 	
 if place_meeting(chair_goal_x,chair_goal_y,obj_chair) {
 	chair_win = true
@@ -17,6 +24,18 @@ if place_meeting(lamp_goal_x,lamp_goal_y,obj_lamp) {
 }
 	
 if place_meeting(table_goal_x,table_goal_y,obj_table) {
+	table_win = true
+}
+
+if place_meeting(chair_goal_light_x,chair_goal_light_y,obj_chair) {
+	chair_win = true
+}
+	
+if place_meeting(lamp_goal_light_x,lamp_goal_light_y,obj_lamp) {
+	lamp_win = true
+}
+	
+if place_meeting(table_goal_light_x,table_goal_light_y,obj_table) {
 	table_win = true
 }
 
