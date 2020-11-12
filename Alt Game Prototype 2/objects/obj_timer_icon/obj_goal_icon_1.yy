@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_cat",
-    "path": "sprites/spr_cat/spr_cat.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,17 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_goal_icon_1","path":"objects/obj_goal_icon_1/obj_goal_icon_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_goal_icon_1","path":"objects/obj_goal_icon_1/obj_goal_icon_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Goals",
+    "path": "folders/Objects/Furniture/Goals.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_cat",
+  "name": "obj_goal_icon_1",
   "tags": [],
   "resourceType": "GMObject",
 }

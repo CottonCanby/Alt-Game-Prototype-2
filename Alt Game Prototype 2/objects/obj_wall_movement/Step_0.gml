@@ -7,6 +7,7 @@ if (obj_player.table_win & !added_table){
 	//telegraphed_time++ ;
 	//wall_wait_spd++ ;
 	//seconds++ ;
+	obj_goal_icon_1.chosen_sprite = complete_icon;
 	pulse_timer = pulse_duration;
 	added_table = true;	
 }
@@ -15,6 +16,7 @@ if (obj_player.lamp_win & !added_lamp){
 	//telegraphed_time++ ;
 	//wall_wait_spd++ ;
 	//seconds++ ;
+	obj_goal_icon_2.chosen_sprite = complete_icon;
 	pulse_timer = pulse_duration;
 	added_lamp = true;
 }
@@ -23,10 +25,12 @@ if (obj_player.chair_win & !added_chair){
 	//telegraphed_time++ ;
 	//wall_wait_spd++ ;
 	//seconds++ ;
+	obj_goal_icon_3.chosen_sprite = complete_icon;
 	pulse_timer = pulse_duration;
 	added_chair = true;
 }
 
+////---------WALL PAUSE
 if (keyboard_check(vk_lcontrol) && keyboard_check_pressed(ord("P"))){
 	pause_walls = true;	
 }

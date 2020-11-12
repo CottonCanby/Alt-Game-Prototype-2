@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "bed",
-    "path": "sprites/bed/bed.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "par_vertical_visuals",
-    "path": "objects/par_vertical_visuals/par_vertical_visuals.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "vertical",
-    "path": "folders/Objects/Furniture/visual only/vertical.yy",
+    "name": "Goals",
+    "path": "folders/Objects/Furniture/Goals.yy",
   },
   "resourceVersion": "1.0",
-  "name": "test_bed",
+  "name": "obj_goal_icon_1",
   "tags": [],
   "resourceType": "GMObject",
 }
