@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite24",
-    "path": "sprites/Sprite24/Sprite24.yy",
+    "name": "spr_box_goal",
+    "path": "sprites/spr_box_goal/spr_box_goal.yy",
   },
   "solid": false,
   "visible": true,

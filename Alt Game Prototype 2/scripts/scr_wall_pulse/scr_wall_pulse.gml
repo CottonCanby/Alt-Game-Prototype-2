@@ -15,7 +15,7 @@ function scr_wall_pulse(){
 	
 	obj_wall_top_target.y = obj_wall_top_target.y-spd;
 	obj_wall_top.y = median(obj_wall_top.y-spd, obj_wall_top_target.y, obj_wall_top.y+spd);
-	obj_wall_space_top.y = median(obj_wall_space_top.y-spd, obj_wall_top_target.y, obj_wall_space_top.y+spd);
+	obj_wall_space_top.y = median(obj_wall_space_top.y-spd, obj_wall_top_target.y-83, obj_wall_space_top.y+spd);
 
 	obj_wall_bottom_target.y = obj_wall_bottom_target.y+spd;
 	obj_wall_bottom.y = median(obj_wall_bottom.y-spd, obj_wall_bottom_target.y, obj_wall_bottom.y+spd);

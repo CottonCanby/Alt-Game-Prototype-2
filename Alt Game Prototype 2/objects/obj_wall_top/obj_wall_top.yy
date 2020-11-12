@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_wall_horizontal",
-    "path": "sprites/spr_wall_horizontal/spr_wall_horizontal.yy",
+    "name": "spr_backing_wall",
+    "path": "sprites/spr_backing_wall/spr_backing_wall.yy",
   },
   "solid": false,
   "visible": true,

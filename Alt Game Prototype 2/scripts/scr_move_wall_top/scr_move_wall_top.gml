@@ -17,7 +17,7 @@ if(instance_exists(obj_wall_movement)){
 	{
 		
 		obj_wall_top.y = median(obj_wall_top.y-wall_movement_speed, obj_wall_top_target.y, obj_wall_top.y+wall_movement_speed);
-		obj_wall_space_top.y = median(obj_wall_space_top.y-wall_movement_speed, obj_wall_top_target.y, obj_wall_space_top.y+wall_movement_speed);
+		obj_wall_space_top.y = median(obj_wall_space_top.y-wall_movement_speed, obj_wall_top_target.y-83, obj_wall_space_top.y+wall_movement_speed);
 		if (obj_wall_top.y = obj_wall_top_target.y)
 		{	
 			obj_wall_top.image_blend = make_color_rgb(255, 255, 255);

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite23",
-    "path": "sprites/Sprite23/Sprite23.yy",
+    "name": "spr_table_goal",
+    "path": "sprites/spr_table_goal/spr_table_goal.yy",
   },
   "solid": false,
   "visible": true,

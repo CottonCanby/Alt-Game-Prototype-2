@@ -19,7 +19,7 @@ added_lamp = false;
 added_chair = false;
 
 pulse_timer = 0;
-pulse_duration = 30;
+pulse_duration = 20;
 wall_pulsing = false;
 
 pause_walls = false;
@@ -27,7 +27,7 @@ pause_walls = false;
 
 //---------THE-IMPORTANT-BIT
 scene_info = [
-	[scr_wall_wait,0],
+	[scr_wall_wait,6],
 	[scr_move_wall_left, 30],
 	[scr_wall_wait,0],
 	[scr_move_wall_right, -100],
