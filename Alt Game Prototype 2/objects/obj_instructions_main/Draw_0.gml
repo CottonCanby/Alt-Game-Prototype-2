@@ -1,6 +1,6 @@
 draw_set_font(fnt_minecraft);
 
-var rect_x = 300;
+var rect_x = 100;
 var rect_y = 100;
 var rect_y_offset = 20;
 
