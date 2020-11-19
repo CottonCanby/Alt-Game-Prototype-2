@@ -24,6 +24,7 @@
     {"id":{"name":"scr_collide_with_walls","path":"scripts/scr_collide_with_walls/scr_collide_with_walls.yy",},"order":3,},
     {"id":{"name":"test_bigbox1","path":"objects/test_bigbox1/test_bigbox1.yy",},"order":13,},
     {"id":{"name":"obj_room_center","path":"objects/obj_room_center/obj_room_center.yy",},"order":1,},
+    {"id":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},"order":14,},
     {"id":{"name":"test_chair","path":"objects/test_chair/test_chair.yy",},"order":8,},
     {"id":{"name":"obj_plastic_shelf","path":"objects/obj_plastic_shelf/obj_plastic_shelf.yy",},"order":4,},
     {"id":{"name":"spr_day_complete_3","path":"sprites/spr_day_complete_3/spr_day_complete_3.yy",},"order":3,},
@@ -105,6 +106,7 @@
     {"id":{"name":"obj_backpack","path":"objects/obj_backpack/obj_backpack.yy",},"order":0,},
     {"id":{"name":"scr_cutscene_control_enable","path":"scripts/scr_cutscene_control_enable/scr_cutscene_control_enable.yy",},"order":4,},
     {"id":{"name":"obj_bookshelf_wide","path":"objects/obj_bookshelf_wide/obj_bookshelf_wide.yy",},"order":6,},
+    {"id":{"name":"obj_instructions","path":"objects/obj_instructions/obj_instructions.yy",},"order":21,},
     {"id":{"name":"desk","path":"sprites/desk/desk.yy",},"order":25,},
     {"id":{"name":"rm_cat_burial","path":"rooms/rm_cat_burial/rm_cat_burial.yy",},"order":10,},
     {"id":{"name":"par_depthobject","path":"objects/par_depthobject/par_depthobject.yy",},"order":16,},
@@ -218,6 +220,7 @@
   },
   "RoomOrder": [
     {"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},
+    {"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},
     {"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},
     {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
     {"name":"rm_day_complete","path":"rooms/rm_day_complete/rm_day_complete.yy",},
