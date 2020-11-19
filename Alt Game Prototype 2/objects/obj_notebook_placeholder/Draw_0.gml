@@ -8,6 +8,7 @@ var mousex = device_mouse_x_to_gui(0);
 var mousey = device_mouse_y_to_gui(0);
 
 var left_click = mouse_check_button_pressed(mb_left);
+draw_text(x, y, ("??? ??? ???"));
 
 if(point_in_rectangle(mousex, mousey, rect_x, rect_y-rect_y_offset, (rect_x + string_width("??? ??? ???")), (rect_y + string_height("??? ??? ???")-rect_y_offset)))
 {

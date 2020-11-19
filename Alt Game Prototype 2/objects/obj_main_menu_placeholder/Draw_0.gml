@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-var rect_x = 600;
-var rect_y = 300;
-var rect_y_offset = 20;
+var rect_x = 320;
+var rect_y = 352;
+var rect_y_offset = 0;
 
 var mousex = device_mouse_x_to_gui(0);
 var mousey = device_mouse_y_to_gui(0);
