@@ -1,6 +1,6 @@
 {
   "spriteId": null,
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -18,16 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_notebook_main_1","path":"objects/obj_notebook_main_1/obj_notebook_main_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_main_menu_main","path":"objects/obj_main_menu_main/obj_main_menu_main.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Room Text",
-    "path": "folders/Objects/Room Utility/Room Text.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_notebook_main_1",
+  "name": "obj_main_menu_main",
   "tags": [],
   "resourceType": "GMObject",
 }
