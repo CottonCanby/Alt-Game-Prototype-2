@@ -11,7 +11,7 @@ function scr_utility(){
 		game_restart();
 	}
 	
-	if keyboard_check(vk_lcontrol) && keyboard_check_pressed(vk_right){
+	if keyboard_check(vk_lcontrol) && keyboard_check_pressed(vk_right) or keyboard_check_pressed(vk_tab){
 		show_debug_message("skipping room");
 		room_goto_next();	
 	}

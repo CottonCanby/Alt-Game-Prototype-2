@@ -37,8 +37,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_level_stress_status","path":"objects/obj_level_stress_status/obj_level_stress_status.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":48.0,"resourceVersion":"1.0","name":"inst_4F1AA7D6","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_l1","path":"objects/obj_fightgraphic_l1/obj_fightgraphic_l1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.343483657,"scaleY":0.343483657,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-320.0,"y":-256.0,"resourceVersion":"1.0","name":"inst_3A45AA5A","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_r2","path":"objects/obj_fightgraphic_r2/obj_fightgraphic_r2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.437198251,"scaleY":0.437198281,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":1568.0,"resourceVersion":"1.0","name":"inst_7E8E0E93","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_r2","path":"objects/obj_fightgraphic_r2/obj_fightgraphic_r2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.549959958,"scaleY":0.5499601,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1486.00684,"y":2034.87988,"resourceVersion":"1.0","name":"inst_7E8E0E93","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_r1","path":"objects/obj_fightgraphic_r1/obj_fightgraphic_r1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.548178434,"scaleY":0.5521109,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-200.3432,"y":1270.80151,"resourceVersion":"1.0","name":"inst_2476C10","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_l2","path":"objects/obj_fightgraphic_l2/obj_fightgraphic_l2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.4752585,"scaleY":0.475258559,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3525.99243,"y":1457.14832,"resourceVersion":"1.0","name":"inst_2A0AAE7E","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Text","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":320.0,"resourceVersion":"1.0","name":"inst_62811978","tags":[],"resourceType":"GMRInstance",},
@@ -73,7 +74,6 @@
     {"name":"inst_39B00379","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_6B112586","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_4F1AA7D6","path":"rooms/rm_teenager/rm_teenager.yy",},
-    {"name":"inst_3A45AA5A","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_7E8E0E93","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_62811978","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_7F77ADC6","path":"rooms/rm_teenager/rm_teenager.yy",},
@@ -82,6 +82,8 @@
     {"name":"inst_35BF0E72","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_3AB66088","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_5F29BE62","path":"rooms/rm_teenager/rm_teenager.yy",},
+    {"name":"inst_2476C10","path":"rooms/rm_teenager/rm_teenager.yy",},
+    {"name":"inst_2A0AAE7E","path":"rooms/rm_teenager/rm_teenager.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
