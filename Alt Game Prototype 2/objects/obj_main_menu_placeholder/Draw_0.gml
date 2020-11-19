@@ -1,6 +1,13 @@
-/// @description Insert description here
-// You can write your code in this editor
-var rect_x = 320;
+if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_212AD1A6) {
+	room_goto(rm_intro);
+}
+
+if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_1C9FF8EA) {
+	room_goto(rm_instructions);
+}
+
+
+/*var rect_x = 320;
 var rect_y = 260;
 var rect_y_offset = 0;
 

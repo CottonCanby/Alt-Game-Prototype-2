@@ -1,4 +1,4 @@
-draw_set_font(fnt_minecraft);
+/*draw_set_font(fnt_minecraft);
 
 var rect_x = 600;
 var rect_y = 300;
