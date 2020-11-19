@@ -1,11 +1,11 @@
 {
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 0,
   "type": 0,
   "origin": 7,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
-  "collisionTolerance": 0,
+  "collisionTolerance": 26,
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 815,
