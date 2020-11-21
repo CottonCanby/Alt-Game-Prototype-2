@@ -48,7 +48,7 @@ scene_info = [
 	[scr_move_wall_top, 100],
 	[scr_move_wall_left, 90],
 	[scr_move_wall_right, -380],
-	[scr_move_wall_bottom, -200],
+	[scr_move_wall_bottom, -20],
 	
 ];
 
