@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Room Utility",
+    "path": "folders/Objects/Room Utility.yy",
   },
   "resourceVersion": "1.0",
   "name": "depthsorter",

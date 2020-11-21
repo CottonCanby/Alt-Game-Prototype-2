@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_wall_vertical_target",
-    "path": "sprites/spr_wall_vertical_target/spr_wall_vertical_target.yy",
+    "name": "spr_wall_vertical_target2",
+    "path": "sprites/spr_wall_vertical_target2/spr_wall_vertical_target2.yy",
   },
   "solid": false,
   "visible": true,

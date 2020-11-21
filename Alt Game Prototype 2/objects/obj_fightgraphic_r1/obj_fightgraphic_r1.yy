@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Text Bubbles",
+    "path": "folders/Objects/Text Bubbles.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_fightgraphic_r1",

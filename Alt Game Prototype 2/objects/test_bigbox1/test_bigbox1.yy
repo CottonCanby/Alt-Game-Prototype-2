@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "bigbox1",
-    "path": "sprites/bigbox1/bigbox1.yy",
+    "name": "spr_bigbox1",
+    "path": "sprites/spr_bigbox1/spr_bigbox1.yy",
   },
   "solid": false,
   "visible": true,
