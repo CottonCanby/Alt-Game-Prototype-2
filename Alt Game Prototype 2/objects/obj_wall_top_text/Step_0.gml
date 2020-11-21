@@ -17,4 +17,4 @@ if obj_wall_top_target.image_alpha > 0 {
 	chosen_text = clear_text;
 }
 
-show_debug_message(obj_level_timer.timer);
+//show_debug_message(obj_level_timer.timer);

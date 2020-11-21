@@ -3,7 +3,7 @@ hspd = 0;
 vspd = 0;
 
 pushing = false;
-p_spd = 4;
+p_spd = 3;
 n_spd = 5;
 spd = n_spd;
 

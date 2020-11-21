@@ -26,4 +26,7 @@ if (place_meeting(x, y + vspd, par_collision)) {
 x += hspd;
 y += vspd;
 
+//show_debug_message(hspd);
+//show_debug_message(vspd);
+
 }
