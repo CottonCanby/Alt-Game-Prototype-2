@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_fightgraphic_l1",
-    "path": "sprites/spr_fightgraphic_l1/spr_fightgraphic_l1.yy",
+    "name": "spr_tb_l1",
+    "path": "sprites/spr_tb_l1/spr_tb_l1.yy",
   },
   "solid": true,
   "visible": true,

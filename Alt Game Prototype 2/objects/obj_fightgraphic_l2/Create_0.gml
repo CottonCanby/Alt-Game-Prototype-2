@@ -11,5 +11,6 @@ lifespan_timer = 10*room_speed;
 decay = false;
 
 snd = audio_play_sound(snd_marriage_story, 10, false);
+audio_sound_set_track_position(snd, 12);
 audio_sound_gain(snd, 0, 0);
 scr_screen_shake(10, lifespan_timer/room_speed);

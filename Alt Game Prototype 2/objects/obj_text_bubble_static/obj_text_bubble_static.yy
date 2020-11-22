@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_fightgraphic_r1",
-    "path": "sprites/spr_fightgraphic_r1/spr_fightgraphic_r1.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
