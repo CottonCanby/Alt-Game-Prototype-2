@@ -1,6 +1,6 @@
 ///@description string_wrap
-///@arg string
-///@arg max_width
+/// @arg string
+/// @arg max_width
 
 function scr_string_wrap(){
 	

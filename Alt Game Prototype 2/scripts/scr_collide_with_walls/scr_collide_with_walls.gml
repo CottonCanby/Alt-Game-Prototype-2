@@ -59,6 +59,6 @@ place_meeting(x, y, obj_wall_left)
 or
 place_meeting(x, y, obj_wall_right)
 //{ show_message("You have failed"); game_restart(); } 
-{ room_restart(); } 
+{ room_restart(); audio_stop_all(); } 
 
 }
