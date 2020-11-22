@@ -58,6 +58,7 @@ or
 place_meeting(x, y, obj_wall_left)
 or
 place_meeting(x, y, obj_wall_right)
-{ show_message("You have failed"); lose = true; game_restart(); } 
+//{ show_message("You have failed"); game_restart(); } 
+{ room_restart(); } 
 
 }
