@@ -1,6 +1,9 @@
 {
-  "spriteId": null,
-  "solid": true,
+  "spriteId": {
+    "name": "d1_large",
+    "path": "sprites/d1_large/d1_large.yy",
+  },
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -17,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_notebook_main_1","path":"objects/obj_notebook_main_1/obj_notebook_main_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Room Text",
-    "path": "folders/Objects/Room Text.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_notebook_main_1",
+  "name": "obj_d1",
   "tags": [],
   "resourceType": "GMObject",
 }

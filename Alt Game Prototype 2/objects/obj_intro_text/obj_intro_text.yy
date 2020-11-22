@@ -26,7 +26,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Room Text",
-    "path": "folders/Objects/Room Utility/Room Text.yy",
+    "path": "folders/Objects/Room Text.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_intro_text",

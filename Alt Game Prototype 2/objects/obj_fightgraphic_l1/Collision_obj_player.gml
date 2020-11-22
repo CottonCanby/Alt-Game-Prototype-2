@@ -2,3 +2,4 @@
 // You can write your code in this editor
 //show_message("You have failed.")
 //game_restart();
+scr_kill_player();

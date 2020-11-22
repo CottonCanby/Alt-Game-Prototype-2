@@ -25,8 +25,11 @@ wall_pulsing = false;
 
 pause_walls = false;
 
+control_reset = false;
+
 
 //---------THE-IMPORTANT-BIT
+if control_enabled { 
 scene_info = [
 	[scr_wall_wait,6],
 	[scr_move_wall_left, 30],
@@ -51,6 +54,7 @@ scene_info = [
 	[scr_move_wall_bottom, -20],
 	
 ];
+} else { scene_info = [ [scr_wall_wait, 100] ]; }
 
 
 
