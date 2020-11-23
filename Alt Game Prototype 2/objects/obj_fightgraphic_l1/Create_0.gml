@@ -1,3 +1,12 @@
+image_alpha = 0;
+audio_fade_timer = 3;
+lifespan_timer = 10*room_speed;
+decay = false;
+
+snd = audio_play_sound(snd_marriage_story, 10, false);
+audio_sound_gain(snd, 0, 0);
+scr_screen_shake(10, lifespan_timer/room_speed);
+
 //var start = argument0;
 //var target
 
@@ -25,15 +34,6 @@ speech_timer = room_speed * 7;
 //scr_screen_shake(10, 9*60);
 //spawn_timer = 0;
 //duration_between_spawns = 120; // How many frames between spawns
-
-image_alpha = 0;
-audio_fade_timer = 3;
-lifespan_timer = 10*room_speed;
-decay = false;
-
-snd = audio_play_sound(snd_marriage_story, 10, false);
-audio_sound_gain(snd, 0, 0);
-scr_screen_shake(10, lifespan_timer/room_speed);
 
 
 

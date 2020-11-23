@@ -15,9 +15,20 @@ text_max_width = box_width - (2*x_buffer);
 counter = 0;
 pause = false;
 
-text[0] = "This is the first page of text. Cool huh?";
-text[1] = "This is the second page of text... now we're getting somewhere.";
-text[2] = "This is the third page of text. Success!";
+closeout_timer = 3*room_speed;
+created_walls = false;
+textbox_complete = false;
+
+text[0] = "Yes!";
+
+text[1] = "Alright, tell you what, if you can keep your room organized and get all A's, I'll get it for you.";
+
+text[2] = "Really!?";
+
+text[3] = "ONLY if you promise to do what I said."
+
+text[4] = "Ok, I promise!"
+
 page = 0;
 voice = snd_voice3;
 voice_frequency = 2; //lower is faster, higher is slower

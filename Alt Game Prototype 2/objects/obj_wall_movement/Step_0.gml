@@ -50,5 +50,6 @@ if pulse_timer <= 0 { pulse_timer = 0; wall_pulsing = false; }
 
 
 if wall_pulsing {
-	scr_wall_pulse(3);
+	scr_wall_pulse(2);
 }
+

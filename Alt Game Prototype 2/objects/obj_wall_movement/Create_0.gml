@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-control_enabled = true;
 
 scene_info = -1;
 scene = 0;
@@ -25,11 +24,8 @@ wall_pulsing = false;
 
 pause_walls = false;
 
-control_reset = false;
-
 
 //---------THE-IMPORTANT-BIT
-if control_enabled { 
 scene_info = [
 	[scr_wall_wait,6],
 	[scr_move_wall_left, 30],
@@ -50,12 +46,9 @@ scene_info = [
 	[scr_move_wall_bottom, -90],
 	[scr_move_wall_top, 100],
 	[scr_move_wall_left, 90],
-	[scr_move_wall_right, -380],
+	[scr_move_wall_right, -300],
 	[scr_move_wall_bottom, -20],
-	
 ];
-} else { scene_info = [ [scr_wall_wait, 100] ]; }
-
 
 
 event_perform(ev_other, ev_user0);

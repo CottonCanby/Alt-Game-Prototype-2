@@ -21,3 +21,4 @@ if (control_enabled) { scr_collide_with_walls(); }
 
 //----------GOAL CONDITIONS
 scr_goal_conditions();
+

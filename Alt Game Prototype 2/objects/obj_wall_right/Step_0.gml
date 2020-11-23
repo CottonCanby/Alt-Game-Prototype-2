@@ -1,3 +1,4 @@
+/*
 spd = 0;
 
 if (x > xprevious){
