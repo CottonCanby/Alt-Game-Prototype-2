@@ -18,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_notebook_main_1","path":"objects/obj_notebook_main_1/obj_notebook_main_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_notebook_text","path":"objects/obj_notebook_text/obj_notebook_text.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -27,7 +27,7 @@
     "path": "folders/Objects/Room Text.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_notebook_main_1",
+  "name": "obj_notebook_text",
   "tags": [],
   "resourceType": "GMObject",
 }

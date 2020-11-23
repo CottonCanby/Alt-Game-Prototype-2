@@ -24,9 +24,9 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_419B9466","path":"rooms/rm_notebook/rm_notebook.yy",},
-    {"name":"inst_7D1EFBFD","path":"rooms/rm_notebook/rm_notebook.yy",},
-    {"name":"inst_75CE4DC9","path":"rooms/rm_notebook/rm_notebook.yy",},
+    {"name":"inst_7D1EFBFD","path":"rooms/rm_notebook3/rm_notebook3.yy",},
+    {"name":"inst_75CE4DC9","path":"rooms/rm_notebook3/rm_notebook3.yy",},
+    {"name":"inst_419B9466","path":"rooms/rm_notebook3/rm_notebook3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -54,7 +54,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "rm_notebook",
+  "name": "rm_notebook3",
   "tags": [],
   "resourceType": "GMRoom",
 }
