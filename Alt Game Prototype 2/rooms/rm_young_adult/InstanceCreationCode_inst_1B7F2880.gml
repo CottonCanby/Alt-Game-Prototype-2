@@ -5,6 +5,7 @@ t_scene_info = [
 	
 	[scr_cutscene_instance_create, -64, 128, "Text_Bubbles", obj_d1],
 	[scr_cutscene_move_character, obj_d1, 128, 0, true, 3],
+	[scr_cutscene_wait, 1],
 	[scr_cutscene_instance_create, 0, 0, "Dialogue", obj_textbox2],
 
 ]

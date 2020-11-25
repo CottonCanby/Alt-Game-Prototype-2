@@ -26,15 +26,10 @@ draw_set_font(font);
 
 #region young adult room textbox
 if room = rm_young_adult {
-	text[0] = "second textbox";
+	text[0] = "Erm... hey son.";
 
-	text[1] = "bloop bloop";
+	text[1] = "Your cat...";
 
-	text[2] = "Really!?";
-
-	text[3] = "ONLY if you promise to do what I said."
-
-	text[4] = "Ok, I promise!"
 }
 
 #endregion

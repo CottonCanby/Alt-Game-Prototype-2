@@ -100,20 +100,30 @@ if room = rm_teenager_p2 {
 
 #region young adult room textbox
 if room = rm_young_adult {
-	text[0] = "young adult room text 1";
+	text[0] = "Hey, I was just looking through how much money I made since working and it looks like I finally have enough money to buy the computer I wanted!";
 
-	text[1] = "bloop bloop";
+	text[1] = "A computer? You're not buying a computer.";
 
-	text[2] = "Really!?";
+	text[2] = "Why not? That's the main reason I got the job. You said if I wanted something then I should earn it. I did.";
 
-	text[3] = "ONLY if you promise to do what I said."
+	text[3] = "I thought you wanted a job for the experience."
 
-	text[4] = "Ok, I promise!"
+	text[4] = "Both."
+	
+	text[5] = "Look, even if this is your room, this isn't your house, you don't get to decide what comes in and out of it."
+	
+	text[6] = "..."
+	
+	text[7] = "Besides, you are going to be moving around a lot the next couple of years. You wouldn't be able to bring something like that with you."
+	
+	text[8] = "Yeah... I guess you're right."
+	
+	text[9] = "HEY! WHAT ARE YOU TALKING ABOUT OVER THERE! SHOULDN'T YOU BE WORKING OR SOMETHING!"
 }
 #endregion
 
 event_perform(ev_other, ev_user1);
 
-closeout_timer = 3*room_speed;
+closeout_timer = 4*room_speed;
 textbox_complete = false;
 

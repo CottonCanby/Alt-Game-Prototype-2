@@ -26,15 +26,27 @@ draw_set_font(font);
 
 #region young adult room textbox
 if room = rm_young_adult {
-	text[0] = "second textbox";
+	text[0] = "Hi son. The rest of the house is getting pretty cluttered so I'm going to move some of my boxes into your room.";
 
-	text[1] = "bloop bloop";
+	text[1] = "Is that ok?";
 
-	text[2] = "Really!?";
+	text[2] = "Well... my room is already kind of cramped. Why move them into my room...";
 
-	text[3] = "ONLY if you promise to do what I said."
+	text[3] = "LOOK, IF YOU HAVE A PROBLEM WITH THIS, BLAME D2. HE HASN'T GOTTEN HIS SHIT TOGETHER AND MADE MORE ROOM SO I'M MOVING THIS INTO YOUR ROOM."
 
-	text[4] = "Ok, I promise!"
+	text[4] = "..."
+	
+	text[5] = "YES D1!"
+	
+	text[6] = "Yes... D1."
+	
+	text[7] = "..."
+	
+	text[8] = "Good."
+	
+	text[9] = "Remember. I love you."
+	
+	text[10] = "..."
 }
 
 #endregion

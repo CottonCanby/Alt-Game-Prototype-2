@@ -31,3 +31,7 @@ if counter = 3 && can_count {
 	color = c_lime;
 }
 
+if room = rm_teenager_p2 {
+	status_text = "tired -^-";
+	color = c_gray;
+}
