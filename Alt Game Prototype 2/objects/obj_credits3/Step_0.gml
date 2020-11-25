@@ -35,5 +35,5 @@ intro_timer -= 1;
 //show_debug_message(intro_timer);
 
 if (time = 16) {
-	room_goto(rm_credits2);
+	game_end();
 }
