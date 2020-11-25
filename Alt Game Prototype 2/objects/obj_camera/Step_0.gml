@@ -15,7 +15,7 @@ shake_remain = max(0, shake_remain- ((1/shake_length)*shake_magnitude));
 if (shake_remain = 0) {
 	//show_debug_message("shaking is false");
 	obj_player.shaking = false;	
-	audio_stop_sound(snd_fitness);
+	//audio_stop_sound(snd_fitness);
 }
 
 var vm = matrix_build_lookat(x, y, -10, x, y, 0, 0, 1, 0);

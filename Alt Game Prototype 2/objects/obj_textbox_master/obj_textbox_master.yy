@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Room Text",
-    "path": "folders/Objects/Room Text.yy",
+    "name": "Cutscene Objects",
+    "path": "folders/Objects/Cutscene Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_textbox_master",

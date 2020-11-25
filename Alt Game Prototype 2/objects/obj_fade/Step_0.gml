@@ -56,6 +56,13 @@ if (alpha == 1 && room = rm_start_teenager)
 #region second level
 if (alpha == 1 && room = rm_teenager)
 {
+	room_goto(rm_teenager_p2);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
+
+if (alpha == 1 && room = rm_teenager_p2)
+{
 	room_goto(rm_day_complete2);
 	show_debug_message("changing rooms");
 	fade = -1;

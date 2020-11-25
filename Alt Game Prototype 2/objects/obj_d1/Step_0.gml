@@ -1,6 +1,9 @@
 
-if can_fade {
-	image_alpha -= .01;
+if !can_fade{
+	image_alpha += .02;
 }
 
-//show_debug_message(can_fade);
+
+if can_fade{
+	image_alpha -= .05;
+}
