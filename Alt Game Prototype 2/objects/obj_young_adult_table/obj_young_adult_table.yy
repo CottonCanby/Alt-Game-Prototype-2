@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite2537",
-    "path": "sprites/Sprite2537/Sprite2537.yy",
+    "name": "spr_young_adult_desk",
+    "path": "sprites/spr_young_adult_desk/spr_young_adult_desk.yy",
   },
   "solid": false,
   "visible": true,

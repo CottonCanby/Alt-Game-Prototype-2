@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite2636",
-    "path": "sprites/Sprite2636/Sprite2636.yy",
+    "name": "spr_young_adult_chair",
+    "path": "sprites/spr_young_adult_chair/spr_young_adult_chair.yy",
   },
   "solid": false,
   "visible": true,

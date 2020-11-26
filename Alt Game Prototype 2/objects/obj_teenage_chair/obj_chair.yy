@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite9",
-    "path": "sprites/Sprite9/Sprite9.yy",
+    "name": "spr_chair",
+    "path": "sprites/spr_chair/spr_chair.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_lamp",
+  "name": "obj_chair",
   "tags": [],
   "resourceType": "GMObject",
 }

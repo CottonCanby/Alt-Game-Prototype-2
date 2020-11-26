@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite938",
-    "path": "sprites/Sprite938/Sprite938.yy",
+    "name": "spr_young_adult_box",
+    "path": "sprites/spr_young_adult_box/spr_young_adult_box.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite2636",
-    "path": "sprites/Sprite2636/Sprite2636.yy",
+    "name": "spr_teenage_box",
+    "path": "sprites/spr_teenage_box/spr_teenage_box.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_teeange_chair",
+  "name": "obj_teenage_lamp",
   "tags": [],
   "resourceType": "GMObject",
 }
