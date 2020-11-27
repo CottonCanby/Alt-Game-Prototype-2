@@ -6,6 +6,10 @@ if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_1C9FF8EA
 	room_goto(rm_instructions);
 }
 
+if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_3FE438DB) {
+	game_end();
+}
+
 
 /*var rect_x = 320;
 var rect_y = 260;
