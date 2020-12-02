@@ -4,4 +4,4 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_set_color(c_white);
 draw_set_font(fnt_minecraft);
-draw_text(view_xport[0]+view_wport[0]/2, view_yport[0]+view_hport[0]/2, "This is the intro to the young adult level");
+draw_text(view_xport[0]+view_wport[0]/2, view_yport[0]+view_hport[0]/2, "It's taken a lot of hard work, but today is finally the day! \n That computer is going to be life changing for me, I can't wait any longer! \n Let's ask.");
