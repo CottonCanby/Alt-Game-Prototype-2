@@ -4,4 +4,4 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_set_color(c_white);
 draw_set_font(fnt_minecraft);
-draw_text(view_xport[0]+view_wport[0]/2, view_yport[0]+view_hport[0]/2, "This is the end of the game");
+draw_text(view_xport[0]+view_wport[0]/2, view_yport[0]+view_hport[0]/2, "Today's the start of a new life. \n \n ... \n \n The start of a life I can control.");
