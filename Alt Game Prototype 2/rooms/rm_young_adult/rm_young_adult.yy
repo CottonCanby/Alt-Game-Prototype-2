@@ -34,6 +34,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_l1","path":"objects/obj_fightgraphic_l1/obj_fightgraphic_l1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.343483657,"scaleY":0.343483657,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":-320.0,"y":-256.0,"resourceVersion":"1.0","name":"inst_3A45AA5A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_r2","path":"objects/obj_fightgraphic_r2/obj_fightgraphic_r2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.437198251,"scaleY":0.437198281,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":1056.0,"y":1568.0,"resourceVersion":"1.0","name":"inst_7E8E0E93","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_d2","path":"objects/obj_d2/obj_d2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":128.0,"resourceVersion":"1.0","name":"inst_1B281E4B","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_text_bubble_spawner_ya","path":"objects/obj_text_bubble_spawner_ya/obj_text_bubble_spawner_ya.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":128.0,"resourceVersion":"1.0","name":"inst_65A524BA","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Text_Bubbles","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_wall_left","path":"objects/obj_wall_left/obj_wall_left.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.99999994,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":353.0,"resourceVersion":"1.0","name":"inst_163985F1","tags":[],"resourceType":"GMRInstance",},
@@ -108,6 +109,7 @@
     {"name":"inst_609A082A","path":"rooms/rm_young_adult/rm_young_adult.yy",},
     {"name":"inst_3E16AE6B","path":"rooms/rm_young_adult/rm_young_adult.yy",},
     {"name":"inst_6DF00CB7","path":"rooms/rm_young_adult/rm_young_adult.yy",},
+    {"name":"inst_65A524BA","path":"rooms/rm_young_adult/rm_young_adult.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
