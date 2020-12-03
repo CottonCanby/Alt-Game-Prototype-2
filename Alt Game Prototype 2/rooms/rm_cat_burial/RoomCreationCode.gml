@@ -1,0 +1,1 @@
+object_set_sprite(obj_player, player_grey);	
