@@ -1,1 +1,1 @@
-object_set_sprite(obj_player, player_grey);	
+object_set_sprite(obj_invisible_wall, spr_invis);

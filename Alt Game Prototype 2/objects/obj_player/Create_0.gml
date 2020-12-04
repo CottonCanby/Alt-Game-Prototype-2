@@ -5,6 +5,8 @@ vspd = 0;
 pushing = false;
 p_spd = 3;
 n_spd = 5;
+b_spd = 2;
+bp_spd = 1;
 spd = n_spd;
 
 lamp_win = false;

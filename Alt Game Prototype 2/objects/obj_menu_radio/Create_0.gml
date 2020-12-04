@@ -1,4 +1,7 @@
-theme_version = choose(1, 2);
+randomize();
+if room = rm_main_menu {
+	theme_version = choose(1, 2);
+}
 
 
 if theme_version = 1 { audio_play_sound(jar_maintheme_v2, 10, true); }

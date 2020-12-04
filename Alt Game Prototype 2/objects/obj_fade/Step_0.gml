@@ -136,6 +136,13 @@ if (alpha == 1 && room = rm_notebook3)
 	fade = -1;
 }
 
+if (alpha == 1 && room = rm_thinking3)
+{
+	room_goto(rm_start_impossible);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
+
 if (alpha == 1 && room = rm_start_impossible)
 {
 	room_goto(rm_impossible);
