@@ -11,6 +11,8 @@ view_camera[0] = camera;
 //what do I want - center of room
 follow = obj_room_center;
 
+if room = rm_final { follow = obj_player; }
+
 
 xTo = x;
 yTo = y;

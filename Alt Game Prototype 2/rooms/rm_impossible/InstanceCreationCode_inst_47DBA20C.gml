@@ -12,6 +12,7 @@ t_scene_info = [
 	[scr_cutscene_move_character, obj_wall_right, 672, 315, false, 4],
 	[scr_cutscene_move_character, obj_wall_space_right, 672, 219, false, 4],
 	
+	[scr_cutscene_change_variable, obj_impossible_radio, "decay", true],
 	[scr_cutscene_wait, 3],
 	[scr_cutscene_fade],
 ]
