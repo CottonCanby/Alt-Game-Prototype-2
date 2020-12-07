@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "d2_large_placeholder",
-    "path": "sprites/d2_large_placeholder/d2_large_placeholder.yy",
+    "name": "d2_large",
+    "path": "sprites/d2_large/d2_large.yy",
   },
   "solid": false,
   "visible": true,

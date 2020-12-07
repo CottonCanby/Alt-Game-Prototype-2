@@ -35,5 +35,5 @@ intro_timer -= 1;
 //show_debug_message(intro_timer);
 
 if (time = 16) {
-	game_end();
+	instance_create_depth(0, 0, -9999, obj_fade);	
 }

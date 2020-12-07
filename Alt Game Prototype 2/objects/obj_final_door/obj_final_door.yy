@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "Sprite51",
-    "path": "sprites/Sprite51/Sprite51.yy",
+    "name": "spr_final_door",
+    "path": "sprites/spr_final_door/spr_final_door.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_depthobject",
+    "path": "objects/par_depthobject/par_depthobject.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

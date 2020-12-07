@@ -170,17 +170,43 @@ if (alpha == 1 && room = rm_final)
 
 if (alpha == 1 && room = rm_endofgame)
 {
+	room_goto(rm_credits1);
+	show_debug_message("changing rooms");
 	fade = -1;
+}
+
+if (alpha == 1 && room = rm_credits1)
+{
+	room_goto(rm_credits2);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
+
+if (alpha == 1 && room = rm_credits2)
+{
+	room_goto(rm_credits3);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
+
+if (alpha == 1 && room = rm_credits3)
+{
+	game_restart();
 }
 
 #endregion
 
-if (alpha == 0) && (fade == -1)
+if (alpha == 0) && (fade == -1) && room != rm_credits3
 {
 	show_debug_message("fade complete");
 	instance_destroy();	
 }
+/*
+} else if (alpha == 0) && (fade == -1) && room = rm_credits3 {
+	game_end();
+}
 
+/*
 if (alpha == 0) and room = rm_endofgame {
 	game_end();	
 }
