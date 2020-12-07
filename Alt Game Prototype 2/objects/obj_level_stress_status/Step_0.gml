@@ -35,3 +35,8 @@ if room = rm_teenager_p2 {
 	status_text = "tired -^-";
 	color = c_gray;
 }
+
+if room = rm_impossible {
+	status_text = "breaking";
+	color = c_red;
+}

@@ -31,6 +31,8 @@ scr_goal_conditions();
 //----------CHANGING SPRITES
 if room = rm_cat_burial {
 	sprite_index = player_grey;
+} else if room = rm_impossible {
+	sprite_index = player_impossible;
 } else {
 	sprite_index = spr_player;
 }
