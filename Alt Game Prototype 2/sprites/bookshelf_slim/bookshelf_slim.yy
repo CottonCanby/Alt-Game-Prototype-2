@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4256d538-7cc4-4dd5-9531-da243d373813","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "visual only furniture",
-    "path": "folders/Sprites/visual only furniture.yy",
+    "name": "Furniture",
+    "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "bookshelf_slim",

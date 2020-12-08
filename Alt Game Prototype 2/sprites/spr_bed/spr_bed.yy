@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4b652938-5329-4e63-b5a2-9a213df7fa5c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Furniture",
+    "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bed",

@@ -13,6 +13,9 @@ t_scene_info = [
 	[scr_cutscene_move_character, obj_wall_right, 800, 320, false, 4],
 	[scr_cutscene_move_character, obj_wall_space_right, 800, 320, false, 4],
 	
+	[scr_cutscene_change_variable, par_visual_only, "is_visible", true],
+	[scr_cutscene_change_variable, par_main_objects, "is_visible", false],
+	[scr_cutscene_change_variable, par_main_object_goals, "is_visible", false],
 
 	[scr_cutscene_instance_create, 115, 200, "Instances", obj_cat],
 	[scr_cutscene_move_character, obj_cat, 360, 200, false, 2],

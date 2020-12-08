@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b8265b48-44e3-4013-8176-a57003169a00","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "visual only furniture",
-    "path": "folders/Sprites/visual only furniture.yy",
+    "name": "Furniture",
+    "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "electrical_socket_bare",

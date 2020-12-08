@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6520299c-2385-443b-9115-7646afd9d808","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "visual only furniture",
-    "path": "folders/Sprites/visual only furniture.yy",
+    "name": "Furniture",
+    "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "bookshelf_wide",

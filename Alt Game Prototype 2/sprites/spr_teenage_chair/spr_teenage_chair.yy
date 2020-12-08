@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b5c481a5-28ee-447b-8442-dab9d45bbbb5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "OLD_UNUSED",
+    "path": "folders/Sprites/OLD_UNUSED.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_teenage_chair",

@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_main_object_goals",
+    "path": "objects/par_main_object_goals/par_main_object_goals.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

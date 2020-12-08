@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cc679c32-db6b-45af-84bb-cd3e3910b9da","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "visual only furniture",
-    "path": "folders/Sprites/visual only furniture.yy",
+    "name": "Furniture",
+    "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "storage_bin_1",

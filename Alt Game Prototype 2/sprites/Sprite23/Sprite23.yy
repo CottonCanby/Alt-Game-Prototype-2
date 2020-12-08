@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0a202587-f8d6-44ce-b85c-e1b95ea9d77d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "OLD_UNUSED",
+    "path": "folders/Sprites/OLD_UNUSED.yy",
   },
   "resourceVersion": "1.0",
   "name": "Sprite23",

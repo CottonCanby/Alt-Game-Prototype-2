@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9fffc61e-8b3d-4437-b372-c2ed79a3b585","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "visual only furniture",
-    "path": "folders/Sprites/visual only furniture.yy",
+    "name": "Furniture",
+    "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "plastic_shelf",

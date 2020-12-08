@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_horizontal_visuals",
-    "path": "objects/par_horizontal_visuals/par_horizontal_visuals.yy",
+    "name": "par_visual_only",
+    "path": "objects/par_visual_only/par_visual_only.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

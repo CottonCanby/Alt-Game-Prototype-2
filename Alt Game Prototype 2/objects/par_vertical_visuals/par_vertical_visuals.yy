@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "visual only",
-    "path": "folders/Objects/Furniture/visual only.yy",
+    "name": "vertical",
+    "path": "folders/Objects/Furniture/visual only/vertical.yy",
   },
   "resourceVersion": "1.0",
   "name": "par_vertical_visuals",

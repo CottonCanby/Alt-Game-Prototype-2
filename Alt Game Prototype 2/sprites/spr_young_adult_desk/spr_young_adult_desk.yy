@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"eb7763ee-ae65-4632-8cb2-7a6b1b6f85c0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "OLD_UNUSED",
+    "path": "folders/Sprites/OLD_UNUSED.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_young_adult_desk",

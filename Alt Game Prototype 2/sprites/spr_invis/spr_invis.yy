@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ec12876c-a903-436b-9933-4f893cc7c968","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "BurialScene",
-    "path": "folders/Sprites/BurialScene.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_invis",

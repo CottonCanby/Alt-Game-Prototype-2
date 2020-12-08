@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_pushable",
-    "path": "objects/par_pushable/par_pushable.yy",
+    "name": "par_main_objects",
+    "path": "objects/par_main_objects/par_main_objects.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

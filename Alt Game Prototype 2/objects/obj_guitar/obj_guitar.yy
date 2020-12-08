@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_box2",
-    "path": "sprites/spr_box2/spr_box2.yy",
+    "name": "guitar",
+    "path": "sprites/guitar/guitar.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_pushable",
-    "path": "objects/par_pushable/par_pushable.yy",
+    "name": "par_visual_only",
+    "path": "objects/par_visual_only/par_visual_only.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Furniture",
-    "path": "folders/Objects/Furniture.yy",
+    "name": "visual only",
+    "path": "folders/Objects/Furniture/visual only.yy",
   },
   "resourceVersion": "1.0",
-  "name": "test_box2",
+  "name": "obj_guitar",
   "tags": [],
   "resourceType": "GMObject",
 }

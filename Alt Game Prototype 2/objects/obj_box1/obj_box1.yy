@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_bed",
-    "path": "sprites/spr_bed/spr_bed.yy",
+    "name": "spr_box1",
+    "path": "sprites/spr_box1/spr_box1.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_vertical_visuals",
-    "path": "objects/par_vertical_visuals/par_vertical_visuals.yy",
+    "name": "par_visual_only",
+    "path": "objects/par_visual_only/par_visual_only.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "vertical",
-    "path": "folders/Objects/Furniture/visual only/vertical.yy",
+    "name": "visual only",
+    "path": "folders/Objects/Furniture/visual only.yy",
   },
   "resourceVersion": "1.0",
-  "name": "test_bed",
+  "name": "obj_box1",
   "tags": [],
   "resourceType": "GMObject",
 }

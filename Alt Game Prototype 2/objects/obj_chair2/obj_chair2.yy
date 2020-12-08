@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_box1",
-    "path": "sprites/spr_box1/spr_box1.yy",
+    "name": "chair2",
+    "path": "sprites/chair2/chair2.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_depthobject",
-    "path": "objects/par_depthobject/par_depthobject.yy",
+    "name": "par_visual_only",
+    "path": "objects/par_visual_only/par_visual_only.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Furniture",
-    "path": "folders/Objects/Furniture.yy",
+    "name": "visual only",
+    "path": "folders/Objects/Furniture/visual only.yy",
   },
   "resourceVersion": "1.0",
-  "name": "test_box1",
+  "name": "obj_chair2",
   "tags": [],
   "resourceType": "GMObject",
 }
