@@ -108,5 +108,41 @@ if room = rm_young_adult {
 
 #endregion
 
+#region impossible room textbox actions
+
+if room = rm_impossible {
+	if page = 0 {
+		obj_camera.follow = obj_d1;
+	} else if page = 1 {
+		obj_camera.follow = obj_d2;	
+	} else if page = 2 {
+		obj_camera.follow = obj_player;
+	} else if page = 3 {
+		obj_camera.follow = obj_room_center;
+		textbox_complete = true;
+		closeout_timer -= 1;
+		if closeout_timer = 0 { instance_destroy(); }
+	}
+}
+
+#endregion
+
+#region final room textbox actions
+
+if room = rm_final {
+	if page = 0 {
+		obj_camera.follow = obj_d1;
+	} else if page = 1 {
+		obj_camera.follow = obj_d2;	
+	} else if page = 3 {
+		obj_camera.follow = obj_player;
+		textbox_complete = true;
+		closeout_timer -= 1;
+		if closeout_timer = 0 { instance_destroy(); }
+	}
+}
+
+#endregion
+
 
 

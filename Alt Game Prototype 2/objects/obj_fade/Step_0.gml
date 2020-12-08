@@ -156,6 +156,13 @@ if (alpha == 1 && room = rm_start_impossible)
 
 if (alpha == 1 && room = rm_impossible)
 {
+	room_goto(rm_start_final);
+	show_debug_message("changing rooms");
+	fade = -1;
+}
+
+if (alpha == 1 && room = rm_start_final)
+{
 	room_goto(rm_final);
 	show_debug_message("changing rooms");
 	fade = -1;

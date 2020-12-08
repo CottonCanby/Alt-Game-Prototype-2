@@ -13,5 +13,8 @@ if room = rm_impossible {
 	timer = .4*one_minute;	
 }
 
+if room = rm_cat_burial {
+	timer = 1*one_minute;	
+}
 
 

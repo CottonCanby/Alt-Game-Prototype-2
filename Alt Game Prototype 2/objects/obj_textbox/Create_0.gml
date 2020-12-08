@@ -126,6 +126,35 @@ if room = rm_young_adult {
 }
 #endregion
 
+#region impossible room textbox
+
+if room = rm_impossible {
+	text[0] = "Hey son. Today's the day.";
+
+	text[1] = "Hope you have everything packed.";
+	
+	text[2] = "y... yeah.";
+
+	text[3] = "Good, let's go then."
+}
+
+#endregion
+
+#region final room textbox
+
+if room = rm_final {
+	text[0] = "That should be everything!";
+
+	text[1] = "You're on your own now, but feel free to call us.";
+	
+	text[2] = "We are going to head out now. Take care!";
+
+	text[3] = "..."
+	
+}
+
+#endregion
+
 event_perform(ev_other, ev_user1);
 
 closeout_timer = 4*room_speed;

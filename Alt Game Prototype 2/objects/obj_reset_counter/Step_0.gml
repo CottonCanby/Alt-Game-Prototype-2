@@ -9,4 +9,14 @@ if room = rm_game && reset_counter = 0  && !added {
 	added_walls = true;
 }
 
+if room = rm_young_adult && reset_counter_ya = 0 && !added_ya {
+	instance_create_layer(64, 128, "Text_Bubbles", obj_d2);
+	instance_create_layer(0, 0, "Triggers", obj_trigger_start2);
+	added_ya = true;	
+} else if room = rm_young_adult && reset_counter_ya = 1 && !added_walls_ya{
+	instance_create_layer(0, 0, "Instances", obj_wall_movement);
+	added_walls_ya = true;
+}
+
+//show_debug_message(added_walls_ya);
 

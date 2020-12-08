@@ -1,14 +1,6 @@
-/*
-spd = 0;
-
-if (x > xprevious){
-	spd = 1;
-} else if (x < xprevious) {
-	spd = -1;	
+if room = rm_final && final_move {
+	if x != 3584 {
+		x += 5;	
+	}
 }
-
-hspd = obj_wall_movement.wall_movement_speed * spd
-
-
-scr_wall_push();
 

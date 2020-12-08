@@ -13,6 +13,9 @@ t_scene_info = [
 	[scr_cutscene_move_character, obj_wall_space_right, 672, 219, false, 4],
 	
 	[scr_cutscene_change_variable, obj_impossible_radio, "decay", true],
-	[scr_cutscene_wait, 3],
-	[scr_cutscene_fade],
+	
+	[scr_cutscene_instance_create, 44, 138, "Text_Bubbles", obj_d1],
+	[scr_cutscene_instance_create, 90, 50, "Text_Bubbles", obj_d2],
+	[scr_cutscene_instance_create, 0, 0, "Dialogue", obj_textbox],
+
 ]
