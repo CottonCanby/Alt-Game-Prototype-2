@@ -1,11 +1,29 @@
+//-------START BUTTON
+if position_meeting(mouse_x, mouse_y, inst_212AD1A6) {
+	inst_212AD1A6.sprite_index = live;	
+} else {
+	inst_212AD1A6.sprite_index = live_fade;	
+}
 if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_212AD1A6) {
 	room_goto(rm_intro);
 }
 
+//-------INSTRUCTIONS BUTTON
+if position_meeting(mouse_x, mouse_y, inst_1C9FF8EA) {
+	inst_1C9FF8EA.sprite_index = instructions;	
+} else {
+	inst_1C9FF8EA.sprite_index = instructions_fade;	
+}
 if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_1C9FF8EA) {
 	room_goto(rm_instructions);
 }
 
+//-------QUIT BUTTON
+if position_meeting(mouse_x, mouse_y, inst_3FE438DB) {
+	inst_3FE438DB.sprite_index = quit;	
+} else {
+	inst_3FE438DB.sprite_index = quit_fade;	
+}
 if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_3FE438DB) {
 	game_end();
 }

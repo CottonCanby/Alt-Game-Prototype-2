@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite87",
-    "path": "sprites/Sprite87/Sprite87.yy",
+    "name": "instructions_fade",
+    "path": "sprites/instructions_fade/instructions_fade.yy",
   },
   "solid": false,
   "visible": true,

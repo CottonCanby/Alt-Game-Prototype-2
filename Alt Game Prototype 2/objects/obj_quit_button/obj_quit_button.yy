@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite95",
-    "path": "sprites/Sprite95/Sprite95.yy",
+    "name": "quit_fade",
+    "path": "sprites/quit_fade/quit_fade.yy",
   },
   "solid": false,
   "visible": true,

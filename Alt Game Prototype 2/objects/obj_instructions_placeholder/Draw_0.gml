@@ -1,3 +1,8 @@
+if position_meeting(mouse_x, mouse_y, inst_5DADB646) {
+	inst_5DADB646.sprite_index = back;	
+} else {
+	inst_5DADB646.sprite_index = back_fade;	
+}
 if mouse_check_button(mb_left) && position_meeting(mouse_x,mouse_y,inst_5DADB646) {
 	room_goto(rm_main_menu);
 }

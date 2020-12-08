@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite88",
-    "path": "sprites/Sprite88/Sprite88.yy",
+    "name": "back_fade",
+    "path": "sprites/back_fade/back_fade.yy",
   },
   "solid": false,
   "visible": true,

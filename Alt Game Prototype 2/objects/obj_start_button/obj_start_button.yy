@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite86",
-    "path": "sprites/Sprite86/Sprite86.yy",
+    "name": "live_fade",
+    "path": "sprites/live_fade/live_fade.yy",
   },
   "solid": false,
   "visible": true,

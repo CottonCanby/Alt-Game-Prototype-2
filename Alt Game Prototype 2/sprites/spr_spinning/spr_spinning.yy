@@ -424,8 +424,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f4914c71-cee9-4b9c-a038-b2792000c435","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Main Menu",
+    "path": "folders/Sprites/Main Menu.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_spinning",

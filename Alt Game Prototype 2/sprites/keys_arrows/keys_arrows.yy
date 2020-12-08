@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"09bfc666-2acb-40a2-94e3-c41d03b81d01","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Main Menu",
+    "path": "folders/Sprites/Main Menu.yy",
   },
   "resourceVersion": "1.0",
   "name": "keys_arrows",
