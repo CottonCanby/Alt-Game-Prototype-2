@@ -24,7 +24,8 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"cbbcaf59-3512-4151-8bbe-eba1c8fc7197","path":"sprites/live_fade/live_fade.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+    {"compositeImage":{"FrameId":{"name":"live_fade","path":"sprites/live_fade/live_fade.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"live_fade","path":"sprites/live_fade/live_fade.yy",},"LayerId":{"name":"live_fade","path":"sprites/live_fade/live_fade.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"cbbcaf59-3512-4151-8bbe-eba1c8fc7197","path":"sprites/live_fade/live_fade.yy",},"LayerId":{"name":"b78ac8ef-a272-4f57-938a-d5a702dd34a3","path":"sprites/live_fade/live_fade.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"live_fade","path":"sprites/live_fade/live_fade.yy",},"resourceVersion":"1.0","name":"cbbcaf59-3512-4151-8bbe-eba1c8fc7197","tags":[],"resourceType":"GMSpriteFrame",},
   ],
