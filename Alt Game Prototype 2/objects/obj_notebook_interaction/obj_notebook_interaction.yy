@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "signing_off_dark",
+    "path": "sprites/signing_off_dark/signing_off_dark.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -18,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_notebook_interaction","path":"objects/obj_notebook_interaction/obj_notebook_interaction.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_notebook_interaction","path":"objects/obj_notebook_interaction/obj_notebook_interaction.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

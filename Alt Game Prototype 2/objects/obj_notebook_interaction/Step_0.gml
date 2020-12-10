@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/*
+
 var rect_x = 420;
 var rect_y = 420;
 var rect_y_offset = 10;
@@ -19,4 +19,14 @@ if(point_in_rectangle(mousex, mousey, rect_x, rect_y-rect_y_offset, (rect_x + st
 	}
 } else {
 	draw_set_color(c_black);
+}
+*/
+
+if position_meeting(mouse_x, mouse_y, obj_notebook_interaction) {
+	obj_notebook_interaction.sprite_index = signing_off_light;	
+} else {
+	obj_notebook_interaction.sprite_index = signing_off_dark;	
+}
+if mouse_check_button_pressed(mb_left) && position_meeting(mouse_x,mouse_y,obj_notebook_interaction) {
+	instance_create_depth(0, 0, -9999, obj_fade);
 }
