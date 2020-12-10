@@ -13,6 +13,10 @@ t_scene_info = [
 	[scr_cutscene_move_character, obj_wall_right, 712, 315, false, 4],
 	[scr_cutscene_move_character, obj_wall_space_right, 712, 219, false, 4],
 	
+	[scr_cutscene_change_variable, par_visual_only, "is_visible", true],
+	[scr_cutscene_change_variable, par_main_objects, "is_visible", false],
+	[scr_cutscene_change_variable, par_main_object_goals, "is_visible", false],
+	
 	[scr_cutscene_move_character, obj_player, 480, 320, false, 3],
 	[scr_cutscene_change_variable, obj_level_stress_status, "can_count", false],
 	

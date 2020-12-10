@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "plastic_shelf_side",
-    "path": "sprites/plastic_shelf_side/plastic_shelf_side.yy",
+    "name": "spr_box1",
+    "path": "sprites/spr_box1/spr_box1.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_visual_only",
-    "path": "objects/par_visual_only/par_visual_only.yy",
+    "name": "par_collision",
+    "path": "objects/par_collision/par_collision.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "visual only",
-    "path": "folders/Objects/Furniture/visual only.yy",
+    "name": "collision_only",
+    "path": "folders/Objects/Furniture/visual only/collision_only.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_plastic_shelf_side",
+  "name": "obj_box1165",
   "tags": [],
   "resourceType": "GMObject",
 }

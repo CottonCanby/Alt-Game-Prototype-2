@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "plastic_shelf_side",
-    "path": "sprites/plastic_shelf_side/plastic_shelf_side.yy",
+    "name": "spr_box2",
+    "path": "sprites/spr_box2/spr_box2.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Furniture/visual only.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_plastic_shelf_side",
+  "name": "obj_box2",
   "tags": [],
   "resourceType": "GMObject",
 }

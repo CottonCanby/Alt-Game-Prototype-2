@@ -18,5 +18,5 @@ if room = rm_young_adult && reset_counter_ya = 0 && !added_ya {
 	added_walls_ya = true;
 }
 
-//show_debug_message(added_walls_ya);
+
 

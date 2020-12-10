@@ -37,4 +37,5 @@ if room = rm_cat_burial {
 	sprite_index = spr_player;
 }
 
+//show_debug_message(control_enabled);
 

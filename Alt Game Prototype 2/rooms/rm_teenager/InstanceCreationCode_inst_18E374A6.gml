@@ -13,7 +13,11 @@ t_scene_info = [
 	[scr_cutscene_move_character, obj_wall_right, 762, 315, false, 4],
 	[scr_cutscene_move_character, obj_wall_space_right, 762, 219, false, 4],
 	
-	[scr_cutscene_move_character, obj_player, 700, 200, false, 3],
+	[scr_cutscene_change_variable, par_visual_only, "is_visible", true],
+	[scr_cutscene_change_variable, par_main_objects, "is_visible", false],
+	[scr_cutscene_change_variable, par_main_object_goals, "is_visible", false],
+	
+	[scr_cutscene_move_character, obj_player, 670, 229, false, 3],
 	[scr_cutscene_change_variable, obj_level_stress_status, "can_count", false],
 	
 	[scr_cutscene_instance_create, 64, 128, "Text_Bubbles", obj_d1],

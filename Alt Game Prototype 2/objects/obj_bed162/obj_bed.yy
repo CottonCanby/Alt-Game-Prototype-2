@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "plastic_shelf_side",
-    "path": "sprites/plastic_shelf_side/plastic_shelf_side.yy",
+    "name": "spr_bed",
+    "path": "sprites/spr_bed/spr_bed.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Furniture/visual only.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_plastic_shelf_side",
+  "name": "obj_bed",
   "tags": [],
   "resourceType": "GMObject",
 }
