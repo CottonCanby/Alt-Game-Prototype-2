@@ -6,12 +6,13 @@ function scr_kill_player(){
 		audio_stop_all();
 		added_walls = false;
 		room_restart(); 
-	}
-	
-	if room = rm_young_adult {
+	} else if room = rm_young_adult {
 		obj_reset_counter.reset_counter_ya = 1;
 		audio_stop_all();
 		added_walls_ya = false;
+		room_restart();
+	} else {
+		audio_stop_all();
 		room_restart();
 	}
 }

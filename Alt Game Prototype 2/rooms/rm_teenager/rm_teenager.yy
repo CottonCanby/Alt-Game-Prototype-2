@@ -26,7 +26,6 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_trigger_timeend","path":"objects/obj_trigger_timeend/obj_trigger_timeend.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":192.0,"resourceVersion":"1.0","name":"inst_18E374A6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_trigger_textboxcomplete","path":"objects/obj_trigger_textboxcomplete/obj_trigger_textboxcomplete.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":192.0,"resourceVersion":"1.0","name":"inst_547F8D2","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_trigger_start","path":"objects/obj_trigger_start/obj_trigger_start.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":320.0,"resourceVersion":"1.0","name":"inst_30466017","tags":[],"resourceType":"GMRInstance",},
       ],"visible":false,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Triggers","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightgraphic_r2","path":"objects/obj_fightgraphic_r2/obj_fightgraphic_r2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.549959958,"scaleY":0.5499601,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":1486.00684,"y":2034.87988,"resourceVersion":"1.0","name":"inst_7E8E0E93","tags":[],"resourceType":"GMRInstance",},
@@ -99,7 +98,7 @@
     {"spriteId":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":800,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "${project_dir}/rooms/rm_game/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/rm_teenager/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_18E374A6","path":"rooms/rm_teenager/rm_teenager.yy",},
@@ -169,7 +168,6 @@
     {"name":"inst_5264993A","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_2CC8E7A8","path":"rooms/rm_teenager/rm_teenager.yy",},
     {"name":"inst_26E02388","path":"rooms/rm_teenager/rm_teenager.yy",},
-    {"name":"inst_30466017","path":"rooms/rm_teenager/rm_teenager.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

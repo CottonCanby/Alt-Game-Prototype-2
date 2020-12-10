@@ -21,7 +21,7 @@ if obj_wall_top_target.image_alpha > 0 {
 if instance_exists(obj_fightgraphic_l1) {
 	chosen_text = y_text;	
 } else {
-	chosen_text = n_text;	
+	chosen_text = clear_text;	
 }
 
 //show_debug_message(obj_level_timer.timer);
